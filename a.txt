@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi,lmt,i love you
+=======
+hi,lmt，nihao.
+>>>>>>> temp2
